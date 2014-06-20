@@ -3,7 +3,8 @@
   "title": "Lunch Ordering Notification",
   "id": "jid1-5QTt7En7FcHZvw",
   "description": "a basic add-on of lunch ordering notification",
-  "author": "",
+  "author": "dwi2",
+  "homepage": "https://github.com/dwi2/lunch_notification",
   "license": "MPL 2.0",
   "version": "0.1"
 }

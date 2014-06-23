@@ -17,7 +17,6 @@
 
 
 ### Wishlist ###
-1. 自定點擊通知後的導向網站
-2. 使用者自定通知時間範圍和週期
+1. [使用者自訂功能](https://github.com/dwi2/lunch_notification/issues/1)
 
-** Pull Requests are welcome!! **
+**Pull Requests are welcome!!**
